@@ -1,0 +1,10 @@
+HarpoonLobotomy's Geometry Nodes Addon © 2025 by Harpoon Lobotomy is licensed under CC BY-NC-SA 4.0 
+
+CC+
+
+CC BY-NC-SA 4.0
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, for noncommercial purposes only. If others modify or adapt the material, they must license the modified material under identical terms.
+
+These additional permissions beyond the scope of this license are granted:
+The material ("the tool") may be used to create commercial works, and these works may be licensed however the user sees fit, provided that work does not include the tool or its derivitives. Distribution of the tool and its derivatives remains exclusively non-commercial.
